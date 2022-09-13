@@ -1,0 +1,504 @@
+.version.tienda_oruro /* version checker */
+{
+	color: #000009;
+	background-color: #EC68B7;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 297px;
+	min-height: 499px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #41231B;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	padding-left: 83px;
+	padding-bottom: 71px;
+}
+
+#u2143
+{
+	z-index: 2;
+	width: 92px;
+	background-color: transparent;
+	margin-left: 61px;
+	position: relative;
+}
+
+#u2146-4
+{
+	z-index: 4;
+	display: block;
+	vertical-align: top;
+	margin-left: 24px;
+	position: relative;
+}
+
+#buttonu2147
+{
+	z-index: 8;
+	width: 166px;
+	-pie-box-shadow: 6px 6px 8px #FFFFFF;
+	box-shadow: 6px 6px 8px rgba(255,255,255,0.5);
+	border-color: #787878;
+	background-color: #8C6239;
+	border-radius: 10px;
+	margin-top: 21px;
+	position: relative;
+	padding: 4px 31px 15px;
+}
+
+#buttonu2147:hover
+{
+	background-color: #F7931E;
+	width: 166px;
+	min-height: 0px;
+	margin: 21px 0px 0px;
+}
+
+#buttonu2147.ButtonSelected
+{
+	background-color: #8C6239;
+	width: 166px;
+	min-height: 0px;
+	margin: 21px 0px 0px;
+}
+
+#u2148
+{
+	z-index: 14;
+	width: 165px;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu2147:hover #u2148
+{
+	width: 165px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2150-5
+{
+	z-index: 9;
+	width: 165px;
+	min-height: 3px;
+	background-color: transparent;
+	font-size: 14px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-top: 10px;
+	position: relative;
+}
+
+#buttonu2147:hover #u2150-5
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 3px;
+	width: 165px;
+	margin: 10px 0px 0px;
+}
+
+#buttonu2147.ButtonSelected #u2150-5
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 3px;
+	width: 165px;
+	margin: 10px 0px 0px;
+}
+
+#buttonu2147:hover #u2150-5 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u2150-2
+{
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+#u2150-3
+{
+	color: #3C3C3C;
+}
+
+#buttonu2152
+{
+	z-index: 16;
+	width: 170px;
+	-pie-box-shadow: 6px 6px 8px #FFFFFF;
+	box-shadow: 6px 6px 8px rgba(255,255,255,0.5);
+	border-color: #787878;
+	background-color: #8C6239;
+	border-radius: 10px;
+	padding-left: 29px;
+	padding-right: 29px;
+	padding-bottom: 26px;
+	margin-top: 26px;
+	position: relative;
+}
+
+#buttonu2152:hover
+{
+	background-color: #F7931E;
+	width: 170px;
+	min-height: 0px;
+	margin: 26px 0px 0px;
+}
+
+#buttonu2152.ButtonSelected
+{
+	background-color: #8C6239;
+	width: 170px;
+	min-height: 0px;
+	margin: 26px 0px 0px;
+}
+
+#u2154
+{
+	z-index: 23;
+	width: 169px;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu2152:hover #u2154
+{
+	width: 169px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu2152.ButtonSelected #u2154
+{
+	width: 169px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2153-6
+{
+	z-index: 17;
+	width: 169px;
+	min-height: 35px;
+	background-color: transparent;
+	letter-spacing: 1px;
+	font-size: 14px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	margin-left: 1px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#buttonu2152:hover #u2153-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 35px;
+	width: 169px;
+	margin: 12px 0px 0px 1px;
+}
+
+#buttonu2152.ButtonSelected #u2153-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 35px;
+	width: 169px;
+	margin: 12px 0px 0px 1px;
+}
+
+#buttonu2152:hover #u2153-6 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu2162
+{
+	z-index: 34;
+	width: 165px;
+	-pie-box-shadow: 6px 6px 8px #FFFFFF;
+	box-shadow: 6px 6px 8px rgba(255,255,255,0.5);
+	border-color: #787878;
+	background-color: #8C6239;
+	border-radius: 10px;
+	margin-top: 27px;
+	position: relative;
+	padding: 1px 33px 19.049999999999613px 30px;
+}
+
+#buttonu2162:hover
+{
+	background-color: #F7931E;
+	width: 165px;
+	min-height: 0px;
+	margin: 27px 0px 0px;
+}
+
+#buttonu2162.ButtonSelected
+{
+	background-color: #8C6239;
+	width: 165px;
+	min-height: 0px;
+	margin: 27px 0px 0px;
+}
+
+#u2164
+{
+	z-index: 41;
+	width: 165px;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu2147.ButtonSelected #u2148,#buttonu2162:hover #u2164
+{
+	width: 165px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu2162.ButtonSelected #u2164
+{
+	width: 165px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2163-6
+{
+	z-index: 35;
+	width: 165px;
+	min-height: 34px;
+	background-color: transparent;
+	letter-spacing: 1px;
+	font-size: 14px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	margin-top: 17px;
+	position: relative;
+}
+
+#buttonu2162:hover #u2163-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 34px;
+	width: 165px;
+	margin: 17px 0px 0px;
+}
+
+#buttonu2162.ButtonSelected #u2163-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 34px;
+	width: 165px;
+	margin: 17px 0px 0px;
+}
+
+#buttonu2162:hover #u2163-6 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu2157
+{
+	z-index: 25;
+	width: 174px;
+	-pie-box-shadow: 6px 6px 8px #FFFFFF;
+	box-shadow: 6px 6px 8px rgba(255,255,255,0.5);
+	border-color: #787878;
+	background-color: #8C6239;
+	border-radius: 10px;
+	padding-left: 27px;
+	padding-right: 27px;
+	padding-bottom: 23.449999999999818px;
+	margin-top: 27px;
+	position: relative;
+}
+
+#buttonu2157:hover
+{
+	background-color: #F7931E;
+	width: 174px;
+	min-height: 0px;
+	margin: 27px 0px 0px;
+}
+
+#buttonu2157.ButtonSelected
+{
+	background-color: #8C6239;
+	width: 174px;
+	min-height: 0px;
+	margin: 27px 0px 0px;
+}
+
+#u2158
+{
+	z-index: 32;
+	width: 173px;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu2157:hover #u2158
+{
+	width: 173px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu2157.ButtonSelected #u2158
+{
+	width: 173px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2160-6
+{
+	z-index: 26;
+	width: 173px;
+	min-height: 38px;
+	background-color: transparent;
+	letter-spacing: 1px;
+	font-size: 14px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	margin-top: 12px;
+	position: relative;
+}
+
+#buttonu2157:hover #u2160-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 38px;
+	width: 173px;
+	margin: 12px 0px 0px;
+}
+
+#buttonu2157.ButtonSelected #u2160-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 38px;
+	width: 173px;
+	margin: 12px 0px 0px;
+}
+
+#buttonu2157:hover #u2160-6 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#pu2170
+{
+	width: 0.01px;
+	margin-left: 21px;
+}
+
+#u2170
+{
+	z-index: 45;
+	width: 37px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+}
+
+#u2167
+{
+	z-index: 43;
+	width: 37px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+	left: 75px;
+}
+
+#u2173
+{
+	z-index: 47;
+	width: 37px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+	left: 149px;
+}
+
+#u2176
+{
+	z-index: 49;
+	width: 55px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 221px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

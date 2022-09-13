@@ -1,0 +1,503 @@
+.version.tienda_oruro /* version checker */
+{
+	color: #0000F8;
+	background-color: #AFFFEF;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1234px;
+	min-height: 1159.95px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #41231B;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px 20px 62.049999999999955px 46px;
+}
+
+#pu781
+{
+	width: 0.01px;
+}
+
+#u781
+{
+	z-index: 2;
+	width: 208px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u770-4
+{
+	z-index: 39;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 51px;
+	left: 399px;
+}
+
+#pbuttonu787
+{
+	width: 0.01px;
+	margin-left: 82px;
+	margin-top: 74px;
+}
+
+#buttonu787
+{
+	z-index: 4;
+	width: 341px;
+	-pie-box-shadow: 6px 6px 8px #FFFFFF;
+	box-shadow: 6px 6px 8px rgba(255,255,255,0.5);
+	border-color: #787878;
+	background-color: #8C6239;
+	border-radius: 10px;
+	padding-left: 54px;
+	padding-right: 56px;
+	padding-bottom: 29px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu787:hover
+{
+	background-color: #F7931E;
+	width: 341px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u870
+{
+	z-index: 10;
+	width: 300px;
+	background-color: transparent;
+	margin-left: 20px;
+	position: relative;
+}
+
+#buttonu787:hover #u870
+{
+	width: 300px;
+	min-height: 0px;
+	margin: 0px 0px 0px 20px;
+}
+
+#u788-5
+{
+	z-index: 5;
+	width: 341px;
+	min-height: 23px;
+	background-color: transparent;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-top: 33px;
+	position: relative;
+}
+
+#buttonu787:hover #u788-5
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 341px;
+	margin: 33px 0px 0px;
+}
+
+#buttonu787.ButtonSelected #u788-5
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 341px;
+	margin: 33px 0px 0px;
+}
+
+#buttonu787:hover #u788-5 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u788-2
+{
+	font-size: 18px;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+#u788-3
+{
+	font-size: 14px;
+	color: #3C3C3C;
+}
+
+#buttonu775
+{
+	z-index: 12;
+	width: 324px;
+	-pie-box-shadow: 6px 6px 8px #FFFFFF;
+	box-shadow: 6px 6px 8px rgba(255,255,255,0.5);
+	border-color: #787878;
+	background-color: #8C6239;
+	border-radius: 10px;
+	padding-left: 72px;
+	padding-right: 61px;
+	padding-bottom: 27.24999999999983px;
+	position: relative;
+	margin-right: -10000px;
+	left: 592px;
+}
+
+#buttonu775:hover
+{
+	background-color: #F7931E;
+	width: 324px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu775.ButtonSelected
+{
+	background-color: #8C6239;
+	width: 324px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u876
+{
+	z-index: 19;
+	width: 300px;
+	background-color: transparent;
+	margin-left: 3px;
+	position: relative;
+}
+
+#buttonu775:hover #u876
+{
+	width: 300px;
+	min-height: 0px;
+	margin: 0px 0px 0px 3px;
+}
+
+#buttonu775.ButtonSelected #u876
+{
+	width: 300px;
+	min-height: 0px;
+	margin: 0px 0px 0px 3px;
+}
+
+#u778-6
+{
+	z-index: 13;
+	width: 324px;
+	min-height: 47px;
+	background-color: transparent;
+	font-size: 18px;
+	letter-spacing: 1px;
+	text-align: center;
+	color: #FFFFFF;
+	line-height: 22px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	margin-top: 27px;
+	position: relative;
+}
+
+#buttonu775:hover #u778-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 47px;
+	width: 324px;
+	margin: 27px 0px 0px;
+}
+
+#buttonu775.ButtonSelected #u778-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 47px;
+	width: 324px;
+	margin: 27px 0px 0px;
+}
+
+#buttonu775:hover #u778-6 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#pbuttonu783
+{
+	width: 0.01px;
+	margin-left: 82px;
+	margin-top: 145px;
+}
+
+#buttonu783
+{
+	z-index: 21;
+	width: 341px;
+	-pie-box-shadow: 6px 6px 8px #FFFFFF;
+	box-shadow: 6px 6px 8px rgba(255,255,255,0.5);
+	border-color: #787878;
+	background-color: #8C6239;
+	border-radius: 10px;
+	padding-left: 54px;
+	padding-right: 56px;
+	padding-bottom: 29.39999999999975px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu783:hover
+{
+	background-color: #F7931E;
+	width: 341px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu787.ButtonSelected,#buttonu783.ButtonSelected
+{
+	background-color: #8C6239;
+	width: 341px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u882
+{
+	z-index: 28;
+	width: 300px;
+	background-color: transparent;
+	margin-left: 20px;
+	position: relative;
+}
+
+#buttonu787.ButtonSelected #u870,#buttonu783:hover #u882
+{
+	width: 300px;
+	min-height: 0px;
+	margin: 0px 0px 0px 20px;
+}
+
+#u784-6
+{
+	z-index: 22;
+	width: 341px;
+	min-height: 23px;
+	background-color: transparent;
+	font-size: 18px;
+	letter-spacing: 1px;
+	text-align: center;
+	color: #FFFFFF;
+	line-height: 22px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	margin-top: 21px;
+	position: relative;
+}
+
+#buttonu783:hover #u784-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 341px;
+	margin: 21px 0px 0px;
+}
+
+#buttonu783.ButtonSelected #u784-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 341px;
+	margin: 21px 0px 0px;
+}
+
+#buttonu783:hover #u784-6 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu764
+{
+	z-index: 30;
+	width: 341px;
+	-pie-box-shadow: 6px 6px 8px #FFFFFF;
+	box-shadow: 6px 6px 8px rgba(255,255,255,0.5);
+	border-color: #787878;
+	background-color: #8C6239;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 589px;
+	padding: 1px 67px 29px 54px;
+}
+
+#buttonu764:hover
+{
+	background-color: #F7931E;
+	width: 341px;
+	min-height: 0px;
+	margin: 1px -10000px 0px 0px;
+}
+
+#buttonu764.ButtonSelected
+{
+	background-color: #8C6239;
+	width: 341px;
+	min-height: 0px;
+	margin: 1px -10000px 0px 0px;
+}
+
+#u888
+{
+	z-index: 37;
+	width: 300px;
+	background-color: transparent;
+	margin-left: 20px;
+	position: relative;
+}
+
+#buttonu783.ButtonSelected #u882,#buttonu764:hover #u888
+{
+	width: 300px;
+	min-height: 0px;
+	margin: 0px 0px 0px 20px;
+}
+
+#buttonu764.ButtonSelected #u888
+{
+	width: 300px;
+	min-height: 0px;
+	margin: 0px 0px 0px 20px;
+}
+
+#u765-6
+{
+	z-index: 31;
+	width: 341px;
+	min-height: 23px;
+	background-color: transparent;
+	font-size: 18px;
+	letter-spacing: 1px;
+	text-align: center;
+	color: #FFFFFF;
+	line-height: 22px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	left: -1px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#buttonu764:hover #u765-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 341px;
+	margin: 20px 0px 0px;
+}
+
+#buttonu764.ButtonSelected #u765-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 341px;
+	margin: 20px 0px 0px;
+}
+
+#buttonu764:hover #u765-6 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#pu768
+{
+	width: 0.01px;
+	margin-left: 418px;
+	margin-top: 37px;
+}
+
+#u768
+{
+	z-index: 45;
+	width: 83px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+}
+
+#u773
+{
+	z-index: 43;
+	width: 78px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 152px;
+}
+
+#u779
+{
+	z-index: 47;
+	width: 80px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+	left: 298px;
+}
+
+#u771
+{
+	z-index: 49;
+	width: 98px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 718px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1300px;
+	padding-top: 40px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
